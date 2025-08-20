@@ -9,10 +9,10 @@ The files contained in this repository include the background work towards deter
 
 Methods implemented for statistical anlaysis include, but are not limited to:
 
-Confidence intervals
-Bayesian estimation
-Importance sampling
-Leave-one-out cross-validation
-Monte Carlo estimate
-p-testing
-This project is programmed using R.
+- Confidence intervals
+- Bayesian estimation
+- Importance sampling
+- Leave-one-out cross-validation
+- Monte Carlo estimate
+- p-testing
+- This project is programmed using R.
