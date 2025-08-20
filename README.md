@@ -14,5 +14,6 @@ Methods implemented for statistical anlaysis include, but are not limited to:
 - Importance sampling
 - Leave-one-out cross-validation
 - Monte Carlo estimate
-- p-testing \
+- p-testing
+
 This project is programmed using R.
